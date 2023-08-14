@@ -1,5 +1,0 @@
-{{#user}
-Name: Bhavaharan Edara
-Skills: HTML, CSS, JS, React.js, Tailwind CSS, Redux toolkit
-Email: bhavaharanedara@gmail.com
-{{/user}}
